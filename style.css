@@ -1,0 +1,229 @@
+body{
+    height: 6000px;
+    
+    background-color: rgba(229, 226, 226, 0.348);
+}
+nav{
+    display: flex;
+    background-color: #444;
+    flex-direction: row-reverse; 
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    
+   
+    
+}
+.zm{
+    margin-top: 15px;
+    padding-right:30px;
+    margin-left: 25px;
+    margin-right: -10px;
+    padding-bottom: 20px;
+    
+}
+.zx{
+    font-size: 20px;
+    color: rgb(240, 248, 255);
+    margin-top: 3px;
+    padding-top: 25px;
+    margin-right: 10px;
+    font-family: ;: italic bold 15px monospace;
+}
+.sis{
+margin-right:800px;
+flex-direction: row;
+position: absolute;
+top:18px;
+right:580px;
+margin-top:6px;
+justify-content: space-around;
+}
+.za{
+    
+    padding: 8px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 90px;
+    position:absolute
+    bottom:20px;
+
+    
+    
+}
+.zas{
+    padding: 8px;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    right:85px;
+
+}
+.xx{
+    display: flex;
+    margin-top:70px;
+    justify-content: center center;
+    margin-right:100px;
+    width:100%;
+    position:static;
+    left:60px;
+    
+}
+.kk{
+    
+    position: absolute;
+    left: 600px;
+    top: 550px;
+    flex-direction: column;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+.tt{
+    font-size:50px;
+    display: flex;
+    position: relative;
+    right:230px;
+    bottom:220px;
+}
+.tr{
+    font-size: 25px;
+    display: flex;
+    position: relative;
+    right:90px;
+    bottom:210px;
+}
+.tf{
+    font-size:20px;
+    display: flex;
+    position: relative;
+    right:135px;
+    bottom:180px;
+    height:50px;
+    padding-right: 280px;
+    border: 1px;
+
+    
+}
+.pp{
+    display: flex;
+    position: relative;
+    bottom: 220px;
+    left: 350px;
+    padding:5px;
+    
+}
+.dd{
+    text-align: center;
+    margin-top: 80px;
+}
+section{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top:60px;
+}
+
+.df{
+    display: flex;
+    position: relative;
+    bottom:140px ;
+    left: 70px;
+    font-size:25px;
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.dff{
+    display: flex;
+    position: relative;
+    bottom:140px ;
+    left: 120px;
+    font-size:25px;
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ssd{
+    display: flex;
+    position: relative;
+    bottom:112px;
+    font-size:25px;
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.uu{
+    display: flex;
+    position: relative;
+    bottom:140px ;
+    left: 95px;
+    font-size:25px;
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.lm{
+    display: flex;
+    position: relative;
+    left:1235px;
+    bottom:20px;
+    color: rgb(0, 0, 0);
+    top:-80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.mn{
+    justify-content: space-around;
+    position: relative;
+    right: 90px;
+    text-decoration: none;
+    color: black;
+    margin-top: 20px;
+}
+.br{
+    display: flex;
+    position: relative;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    left:1200px;
+    bottom:75px;
+}
+.ch{display: flex;
+    margin-bottom: -15px;
+}
+.brr{
+    margin-top: 40px;
+    display: flex;
+    position: relative;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    left:1180px;
+    bottom:75px;
+}
+.rr{
+    display: flex;
+    position: relative;
+    left:34px;
+}
+.chh{
+    margin-right:24px;
+    display: flex;
+}
+.kick{
+    display: flex;
+    position: relative;
+    top: 80px;
+    justify-content: space-between;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.sdf{
+    position: relative;
+    left: 70px;
+    font-size: 25px;
+}
+.sdff{
+    position: relative;
+    left: 40px;
+    font-size: 25px;
+
+}
+.sdfh{
+    position: relative;
+    right:-35px;
+    font-size: 25px;
+}
